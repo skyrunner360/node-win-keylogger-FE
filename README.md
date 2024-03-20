@@ -2,7 +2,7 @@
 Windows Keylogger to detect bad words then capture screenshot. Uses Firebase Realtime Database and Firebase Storage.
 
 # Prerequisites
-- [node-win-keylogger] (https://github.com/skyrunner360/node-win-keylogger)
+- [node-win-keylogger](https://github.com/skyrunner360/node-win-keylogger)
 - Node >= 20
 
 # Usage
